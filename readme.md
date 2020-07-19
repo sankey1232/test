@@ -2,7 +2,7 @@
 
 ## How to install the app
 
-To use this app you don't need to install it; just download it and you can run it!
+Just download the code and run it!
 
 You'll need Python though.
 
